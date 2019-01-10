@@ -84,7 +84,9 @@ const createStore: CreateStore = (
     actions,
     subscribe,
     unsubscribe,
+    context,
   }
 }
 
 export default createStore
+
